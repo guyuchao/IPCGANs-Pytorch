@@ -1,0 +1,2 @@
+2019-03-21 14:24:24,073 INFO Start to train:
+ arguments: Namespace(batch_size=512, checkpoint='./checkpoint/pretrain_alexnet', cuda_device='0', learning_rate=0.0001, max_epoches=200, save_interval=20000, saved_model_folder='./checkpoint/pretrain_alexnet/saved_parameters/', val_interval=20000)
