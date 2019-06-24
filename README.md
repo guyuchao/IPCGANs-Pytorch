@@ -41,7 +41,7 @@ python IPCGANS_train.py
 
 ### Server
 
-This project acted as an server for Android [demo](https://github.com/guyuchao/AgeGanAndroid). You can start flask server.
+This project acted as an server for Android [demo](https://github.com/guyuchao/IPCGANs-Android). You can start flask server.
 ``` python
 python app.py 
 ```
