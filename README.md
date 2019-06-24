@@ -33,7 +33,7 @@ python pretrain_alexnet.py
 python IPCGANS_train.py
 ```
 
-3. Pretrained IPCGANs and AgeAlexnet model can be downloaded [here](), password: .
+3. Pretrained IPCGANs and AgeAlexnet model can be downloaded [here](https://pan.baidu.com/s/1a6YkVMmT1HcGvgX0YLO9kQ), password:Lr6a
 
 ### Visualize
 
@@ -41,7 +41,7 @@ python IPCGANS_train.py
 
 ### Server
 
-This project acted as an server for Android demo[](). You can start flask server.
+This project acted as an server for Android [demo](https://github.com/guyuchao/AgeGanAndroid). You can start flask server.
 ``` python
 python app.py 
 ```
